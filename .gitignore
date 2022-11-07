@@ -1,6 +1,10 @@
 # Dependency directories
 node_modules/
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> c1baedf949842984352d67386b7b7a00f52760b7
 cypress/results/*
 cypress/reports/*
 cypress/screenshots/*
