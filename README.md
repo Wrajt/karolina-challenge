@@ -35,7 +35,7 @@ Before you start
 
 How to run the test
 ------------
-- clone repository to your computer
+- clone repository to your desktop
 - go to the challenge folder
 - run cypress from your command line
   - `npx cypress oen`
