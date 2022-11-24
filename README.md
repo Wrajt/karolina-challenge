@@ -38,6 +38,6 @@ How to run the test
 - clone repository to your desktop
 - go to the challenge folder
 - run cypress from your command line
-  - `npx cypress oen`
+  - `npx cypress open`
   - run test via Cypress launcher
 - or if you wish to run the tests outside of Cypress launcher use `npx cypress run`
